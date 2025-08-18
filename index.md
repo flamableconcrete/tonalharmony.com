@@ -9,4 +9,4 @@ header:
   caption: "MLK Leaders Prayer Breakfast, Georgetown, TX (1/16/2023)"
 ---
 
-Get in contact with us! Email us at <tonalharmony@musician.org>
+Get in contact with us! Email us at <sing@tonalharmony.com>
