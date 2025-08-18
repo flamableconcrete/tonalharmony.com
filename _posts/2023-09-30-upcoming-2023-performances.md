@@ -6,8 +6,6 @@ categories:
   - performances
 ---
 
-# Tonal Harmony Upcoming Performances
-
 Here are the dates and details for our next three performances:
 
 ## Interfaith Fireside
