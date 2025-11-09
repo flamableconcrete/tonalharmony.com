@@ -25,3 +25,15 @@ We will also be performing at the Veterans Day ceremony at the Field of Honor.
 - **Time:** 11:00 AM
 - **Piece:** *My Heart Be Brave*
 - **Practice Link:** [YouTube](https://youtu.be/A9S7VMCwwig?si=acAs4D4klNT8MMyu)
+
+## Location and Parking
+
+Both events will be held at San Gabriel Park's 10-acre Event Lawn.
+
+**Address:**
+445 E. Morrow St
+Georgetown, TX 78626
+
+A map with parking information is provided below:
+
+![Parking Map](/assets/images/field-of-honor-parking.png)
